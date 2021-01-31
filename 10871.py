@@ -18,5 +18,5 @@ for num in numbers:
     if num < x:
         print(num, end=' ')
 
-print()
+# print()
 print("time :", time.time() - start)
