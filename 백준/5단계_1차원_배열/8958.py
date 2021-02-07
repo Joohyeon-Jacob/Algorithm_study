@@ -1,16 +1,19 @@
-# OX 퀴즈 --> 미해결!!
+# OX 퀴즈
 
 N = int(input())
 
 for i in range(N):
   # 결과 초기값
   result = 0
-  ox_string = str(input())
+  a = 0
+  ox_string = input()
 
   for char in ox_string:
-    a = 0
-    while char == 'O':
+    if char == 'O':
       a += 1
-    result += a*(a+1)//2
+      result += a
+    else:
+      a = 0
   print(result) 
+
 
