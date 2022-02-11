@@ -95,7 +95,7 @@
 |          |                ps-study                 |       브리님 추천 알고리즘 repository        |
 | 2/9(수)  |          01_Brute_Force(1문제)          |                                              |
 | 2/10(목) |          01_Brute_Force(1문제)          |                  복습 필요                   |
-|          |                                         |                                              |
+| 2/11(금) |          01_Brute_Force(1문제)          |                                              |
 |          |                                         |                                              |
 |          |                                         |                                              |
 
