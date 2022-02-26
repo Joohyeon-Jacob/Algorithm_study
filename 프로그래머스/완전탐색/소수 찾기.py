@@ -1,5 +1,5 @@
 
-from itertools import combinations
+from itertools import permutations
 
 def solution(numbers):
     answer = []
@@ -8,14 +8,11 @@ def solution(numbers):
     # 숫자 조합 추가
     perms = []
     for i in range(1, length+1):
-        perms.extend(combinations(nums, i))
+        perms.extend(permutations(nums, i))
     new_nums = [int(''.join(p)) for p in perms]
 
     for new_num in new_nums:
-        if new_num == 1:
-            continue
-        if new_num == 2:
-            answer.append(new_num)
+        if new_num < 2:
             continue
         # 소수인지 체크
         check = True
@@ -26,7 +23,4 @@ def solution(numbers):
         if check:
             answer.append(new_num)
 
-
-    return len(answer)
-
-print(solution("17"))
+    return len(set(answer))
