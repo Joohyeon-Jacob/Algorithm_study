@@ -115,7 +115,7 @@
 | **3월**  |                                                              |                                                              |
 | 3/1(화)  |                09_Dynamic_Programming(1문제)                 | DP 설명 영상 시청 및 학습 / SQL 공부는 프로그래머스에서 진행 |
 | 3/2(수)  |                    05_Graph_Search(1문제)                    |                                                              |
-| 3/3(목)  |                    05_Graph_Search(1문제)                    |                                                              |
+| 3/3(목)  |                    05_Graph_Search(2문제)                    |                        BFS 연습 진행                         |
 |          |                                                              |                                                              |
 
 
