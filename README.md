@@ -117,7 +117,8 @@
 | 3/2(수)  |                    05_Graph_Search(1문제)                    |                                                              |
 | 3/3(목)  |                    05_Graph_Search(2문제)                    |                        BFS 연습 진행                         |
 | 3/4(금)  |                    05_Graph_Search(1문제)                    |                                                              |
-|          |                                                              |                                                              |
+|          |                                                              |                     코딩테스트 이후 휴식                     |
+| 3/9(수)  |                 <br />탐욕법(Greedy)(1문제)                  |              Greedy & DFS / BFS 집중 연습 시작               |
 
 
 
@@ -125,4 +126,4 @@
 
 *"Slow and Steady wins the race."* 
 
-Keep coding, and be happy (¬‿¬)
+Keep coding, and be happy (¬‿¬)	
