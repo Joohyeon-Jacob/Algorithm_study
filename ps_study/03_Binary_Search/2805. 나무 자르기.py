@@ -5,7 +5,6 @@ if __name__ == "__main__":
 
     # 나무의 높이
     height_list = list(map(int, input().split()))
-    # height_list.sort() --> 필요 없는 과정
 
     left, right = 0, max(height_list)
 
